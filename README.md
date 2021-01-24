@@ -1,1 +1,1 @@
-# diceRoll
+Implementing basic javascript
